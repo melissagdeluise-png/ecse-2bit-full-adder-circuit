@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A 2-bit full adder circuit adds two 2-bit binary numbers, producing a 2-bit sum and a carry-out bit. It is constructed by connecting two 1-bit adders in series.
 
 ## How to test
 
-Explain how to use your project
+Test using different inputs.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED display
